@@ -1,4 +1,4 @@
-fdfffffimport type { Movie, TMDbSearchResponse } from "@/types/movie"
+import type { Movie, TMDbSearchResponse } from "@/types/movie"
 
 // TMDb API Configuration
 const TMDB_API_KEY = "1fc707a99c5f083d08d614ca30622702"
